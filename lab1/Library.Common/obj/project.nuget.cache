@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1wULhKZeKmEXLxIAXSEoUK7TLeWAeYiGJvkayh6uL4zw7+MBJ00Wep6bHy3nM+Uq9oWPuO9JxL/Tf1+UkGoezQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ginge\\Downloads\\lab1\\Library.Common\\Library.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ginge\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\ginge\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\ginge\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
