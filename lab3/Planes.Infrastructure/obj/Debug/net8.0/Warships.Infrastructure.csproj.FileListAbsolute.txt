@@ -1,0 +1,13 @@
+C:\Users\Illya\Source\Repos\NUPP_NET_2025_302_TK_Koba_Lab\Warships.Infrastructure\bin\Debug\net8.0\Warships.Infrastructure.deps.json
+C:\Users\Illya\Source\Repos\NUPP_NET_2025_302_TK_Koba_Lab\Warships.Infrastructure\bin\Debug\net8.0\Warships.Infrastructure.dll
+C:\Users\Illya\Source\Repos\NUPP_NET_2025_302_TK_Koba_Lab\Warships.Infrastructure\bin\Debug\net8.0\Warships.Infrastructure.pdb
+C:\Users\Illya\Source\Repos\NUPP_NET_2025_302_TK_Koba_Lab\Warships.Infrastructure\obj\Debug\net8.0\Warships.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Illya\Source\Repos\NUPP_NET_2025_302_TK_Koba_Lab\Warships.Infrastructure\obj\Debug\net8.0\Warships.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Illya\Source\Repos\NUPP_NET_2025_302_TK_Koba_Lab\Warships.Infrastructure\obj\Debug\net8.0\Warships.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Illya\Source\Repos\NUPP_NET_2025_302_TK_Koba_Lab\Warships.Infrastructure\obj\Debug\net8.0\Warships.Infrastructure.AssemblyInfo.cs
+C:\Users\Illya\Source\Repos\NUPP_NET_2025_302_TK_Koba_Lab\Warships.Infrastructure\obj\Debug\net8.0\Warships.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Illya\Source\Repos\NUPP_NET_2025_302_TK_Koba_Lab\Warships.Infrastructure\obj\Debug\net8.0\Warships.Infrastructure.sourcelink.json
+C:\Users\Illya\Source\Repos\NUPP_NET_2025_302_TK_Koba_Lab\Warships.Infrastructure\obj\Debug\net8.0\Warships.Infrastructure.dll
+C:\Users\Illya\Source\Repos\NUPP_NET_2025_302_TK_Koba_Lab\Warships.Infrastructure\obj\Debug\net8.0\refint\Warships.Infrastructure.dll
+C:\Users\Illya\Source\Repos\NUPP_NET_2025_302_TK_Koba_Lab\Warships.Infrastructure\obj\Debug\net8.0\Warships.Infrastructure.pdb
+C:\Users\Illya\Source\Repos\NUPP_NET_2025_302_TK_Koba_Lab\Warships.Infrastructure\obj\Debug\net8.0\ref\Warships.Infrastructure.dll

@@ -1,0 +1,6 @@
+C:\Users\Illya\Source\Repos\NUPP_NET_2025_302_TK_Koba_Lab\Warships.NoSql\obj\Debug\net8.0\Warships.NoSql.csproj.AssemblyReference.cache
+C:\Users\Illya\Source\Repos\NUPP_NET_2025_302_TK_Koba_Lab\Warships.NoSql\obj\Debug\net8.0\Warships.NoSql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Illya\Source\Repos\NUPP_NET_2025_302_TK_Koba_Lab\Warships.NoSql\obj\Debug\net8.0\Warships.NoSql.AssemblyInfoInputs.cache
+C:\Users\Illya\Source\Repos\NUPP_NET_2025_302_TK_Koba_Lab\Warships.NoSql\obj\Debug\net8.0\Warships.NoSql.AssemblyInfo.cs
+C:\Users\Illya\Source\Repos\NUPP_NET_2025_302_TK_Koba_Lab\Warships.NoSql\obj\Debug\net8.0\Warships.NoSql.csproj.CoreCompileInputs.cache
+C:\Users\Illya\Source\Repos\NUPP_NET_2025_302_TK_Koba_Lab\Warships.NoSql\obj\Debug\net8.0\Warships.NoSql.sourcelink.json

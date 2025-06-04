@@ -1,0 +1,6 @@
+C:\Users\Illya\Source\Repos\NUPP_NET_2025_302_TK_Koba_Lab\Warships.ConsoleApp\obj\Debug\net8.0\Warships.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Illya\Source\Repos\NUPP_NET_2025_302_TK_Koba_Lab\Warships.ConsoleApp\obj\Debug\net8.0\Warships.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Illya\Source\Repos\NUPP_NET_2025_302_TK_Koba_Lab\Warships.ConsoleApp\obj\Debug\net8.0\Warships.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Illya\Source\Repos\NUPP_NET_2025_302_TK_Koba_Lab\Warships.ConsoleApp\obj\Debug\net8.0\Warships.ConsoleApp.AssemblyInfo.cs
+C:\Users\Illya\Source\Repos\NUPP_NET_2025_302_TK_Koba_Lab\Warships.ConsoleApp\obj\Debug\net8.0\Warships.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Illya\Source\Repos\NUPP_NET_2025_302_TK_Koba_Lab\Warships.ConsoleApp\obj\Debug\net8.0\Warships.ConsoleApp.sourcelink.json
